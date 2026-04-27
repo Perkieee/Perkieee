@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin Walter
 # 💫 About Me:
-👯 I ranked 3rd in the recent ML4Earth Hackathon with my teammate @glo_musyawa. <br>      Used Python (PyTorch, FastAI) and Terratorch to classify satellite images, focusing on land cover changes with deep learning and image segmentation.<br>      Demonstrated skills in data annotation and model development.<br>      Quite cool isn't it !<br>🌱 🔭 I’m currently upskilling on neural networks<br>💬 Let's talk about machine learning<br>
+👯 I ranked 3rd in the ML4Earth Hackathon with my teammate @glo_musyawa. <br>      Used Python (PyTorch, FastAI) and Terratorch to classify satellite images, focusing on land cover changes with deep learning and image segmentation.<br>      Demonstrated skills in data annotation and model development.<br>      Quite cool isn't it !<br>🌱 🔭 I’m currently upskilling on neural networks<br>💬 Let's talk about machine learning<br>
 
 
 ## 🌐 Socials:
